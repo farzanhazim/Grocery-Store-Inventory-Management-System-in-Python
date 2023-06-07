@@ -1,0 +1,6 @@
+6000	meal	food	pack	5.00	10	15
+20000	Beef200g	Freezer	Pack	20.00	10	7
+21000	Chicken thigh	Freezer	pieces	10.00	15	5
+30000	Apple	Fruits	pieces	2.00	50	30
+41000	Broccoli	Vegetables	Pieces	2.50	23	10
+32000	Orange	Fruits	pieces	2.50	50	30
